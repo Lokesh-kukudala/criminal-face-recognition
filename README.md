@@ -45,7 +45,7 @@ A real-time AI-powered **Criminal Face Recognition System** designed for smart s
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Nadeem-mohammad0021/criminal-face-recognition.git
+git clone https://github.com/Lokesh-kukudala/criminal-face-recognition.git
 cd criminal-face-recognition
 ````
 
@@ -170,8 +170,8 @@ Pull requests are welcome!
 
 ## 📬 Contact
 
-**👤 Nadeem Mohammad**
-📧 [nadeem.mohammad0021@gmail.com](mailto:nadeem.mohammad0021@gmail.com)
+**👤 Lokesh Kukudala**
+📧 [kukudalalokesh09@gmail.com](mailto:kukudalalokesh09@gmail.com)
 🔗 [GitHub Profile](https://github.com/Nadeem-mohammad0021)
 
 ---
